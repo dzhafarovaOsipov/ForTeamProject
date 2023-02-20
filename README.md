@@ -35,14 +35,8 @@ Home               |  Restaurants List               | Restaurant Page          
 
 
 ## Installation
-
-From CLI:
-
-```
-mvn install
-```
-
-Or open in your favorite IDE (Idea, VSCode, Eclipse, NetBeans etc.).
+<p align="center" >
+  <img src="https://3.bp.blogspot.com/-zxXOgeQ5-0A/XD5vwB4CtTI/AAAAAAAAG4c/fFMrXH-ZFZkkVlzkgB6dvRJMUwfDgACWACK4BGAYYCw/s1600/Icons%2BApp%2BStore%2BGoogle%2Bplay.png"/>
 
 ## Credits
 
