@@ -12,7 +12,7 @@
 
 <p align="center" style="font-size:20pt; color:green"> <i>С вас заказ - с нас товар</i> </p> 
 
-<img src ="https://y-eda.ru/wp-content/uploads/prilojenie.gif"> </img>
+<img src ="https://y-eda.ru/wp-content/uploads/prilojenie.gif" style="align:center; width:80%"> </img>
 
 
 
