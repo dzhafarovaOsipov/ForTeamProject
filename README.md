@@ -44,7 +44,7 @@ Home               |  Restaurants List               | Restaurant Page          
   <img src="https://3.bp.blogspot.com/-zxXOgeQ5-0A/XD5vwB4CtTI/AAAAAAAAG4c/fFMrXH-ZFZkkVlzkgB6dvRJMUwfDgACWACK4BGAYYCw/s1600/Icons%2BApp%2BStore%2BGoogle%2Bplay.png"/>
 
 <p align="center"> 
-  __Or__  
+  # Or   
 </p>
 
 `npm i --save vue2-delivery-club`
