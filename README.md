@@ -10,7 +10,7 @@
 
 # [View a demo](https://play.google.com/store/apps/details?id=com.deliveryclub&hl=ru&gl=US)
 
-# DESCRIPTION 
+# Description 
 
 ### Screenshots
 
@@ -30,7 +30,7 @@ Home               |  Restaurants List               | Restaurant Page          
 - [MySQL](https://www.mysql.com) - data storage solution
 - [JFoenix](https://github.com/jfoenixadmin/JFoenix) - JavaFX Material Design Library
 
-# USING
+# Using
 
 ### Как использовать:-
 - **Разветвляйте репозиторий и клонируйте его локально**. Подключите свой локальный репозиторий к исходному “восходящему” репозиторию, добавив его в качестве удаленного. Почаще вносите изменения из “восходящего потока”, чтобы оставаться в курсе последних событий и чтобы при отправке запроса на извлечение конфликты слияния были менее вероятны. (Смотрите более подробные инструкции здесь.)
@@ -40,7 +40,7 @@ Home               |  Restaurants List               | Restaurant Page          
 - **Протестируйте свои изменения!** Запустите внесенные изменения с любыми существующими тестами, если они существуют, и при необходимости создайте новые. Независимо от того, существуют тесты или нет, убедитесь, что ваши изменения не нарушают существующий проект.
 - **Внесите свой вклад в стиле проекта** в меру своих способностей. Это может означать использование отступов, точек с запятой или комментариев иначе, чем вы бы использовали в своем собственном репозитории, но облегчает сопровождающему слияние, другим - понимание и поддержку в будущем.
 
-# INSTALLATION
+# Installation
 <p align="center" >
   <img src="https://3.bp.blogspot.com/-zxXOgeQ5-0A/XD5vwB4CtTI/AAAAAAAAG4c/fFMrXH-ZFZkkVlzkgB6dvRJMUwfDgACWACK4BGAYYCw/s1600/Icons%2BApp%2BStore%2BGoogle%2Bplay.png"/>
 
