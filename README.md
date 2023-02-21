@@ -22,6 +22,7 @@ Home               |  Restaurants List               | Restaurant Page          
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](https://www.codenameone.com/wp-content/uploads/2021/08/GrubHub-8-Home.png?raw=true)|![](https://www.codenameone.com/wp-content/uploads/2021/08/GrubHub-9-Restaurants.png?raw=true)|![](https://www.codenameone.com/wp-content/uploads/2021/08/GrubHub-10-Restaurant.png?raw=true)|![](https://www.codenameone.com/wp-content/uploads/2021/08/GrubHub-11-Product.png?raw=true)|
 
+---
 
 ### Technologies
 - [Java](https://go.java/index.html) - widely used object-oriented language, the core of our system
