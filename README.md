@@ -32,13 +32,13 @@ Home               |  Restaurants List               | Restaurant Page          
 
 ## Using
 
-### How to contribute :-
-- **Fork the repository and clone it locally**. Connect your local to the original “upstream” repository by adding it as a remote. Pull in changes from “upstream” often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely. (See more detailed instructions here.)
-- **Create a branch** for your edits.
-- **Reference any relevant issues** or supporting documentation in your PR (for example, “Closes #37.”)
-- **Include screenshots of the before and after** if your changes include differences in HTML/CSS. Drag and drop the images into the body of your pull request.
-- **Test your changes!** Run your changes against any existing tests if they exist and create new ones when needed. Whether tests exist or not, make sure your changes don’t break the existing project.
-- **Contribute in the style of the project** to the best of your abilities. This may mean using indents, semi-colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future.
+### Как использовать:-
+- **Разветвляйте репозиторий и клонируйте его локально**. Подключите свой локальный репозиторий к исходному “восходящему” репозиторию, добавив его в качестве удаленного. Почаще вносите изменения из “восходящего потока”, чтобы оставаться в курсе последних событий и чтобы при отправке запроса на извлечение конфликты слияния были менее вероятны. (Смотрите более подробные инструкции здесь.)
+- **Создайте ветку** для ваших правок.
+- **Ссылайтесь на любые соответствующие вопросы** или вспомогательную документацию в вашем PR (например, ”Закрытие № 37".)
+- **Включите скриншоты до и после**, если ваши изменения включают различия в HTML / CSS. Перетащите изображения в текст вашего запроса на извлечение.
+- **Протестируйте свои изменения!** Запустите внесенные изменения с любыми существующими тестами, если они существуют, и при необходимости создайте новые. Независимо от того, существуют тесты или нет, убедитесь, что ваши изменения не нарушают существующий проект.
+- **Внесите свой вклад в стиле проекта** в меру своих способностей. Это может означать использование отступов, точек с запятой или комментариев иначе, чем вы бы использовали в своем собственном репозитории, но облегчает сопровождающему слияние, другим - понимание и поддержку в будущем.
 
 ## Installation
 <p align="center" >
