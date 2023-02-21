@@ -51,4 +51,4 @@ Home               |  Restaurants List               | Restaurant Page          
 
 ## Credits
 
-- Концепция взята от, [DeliveryClub](https://deliveryclub.com)
+- Концепция взята от, [DeliveryClub](https://www.delivery-club.ru/)
